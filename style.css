@@ -77,6 +77,13 @@ main {
 
 .testimonial-name {
   color: var(--grey-100);
+  font-size: 1.2rem;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-direction: column;
+  line-height: 120%;
+  gap: 0.1em;
 }
 
 .testimonial-role {
